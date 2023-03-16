@@ -1,16 +1,18 @@
 <h1 align="center"> Node REST API </h1>
 <p align="center">Using Fastify, Knex and others tools </p>
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luanoliveira98/Node-API-Typescrypt-Fastify-Knex?color=%2304D361"/>
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/luanoliveira98/Node-API-Typescrypt-Fastify-Knex">
-<a href="https://github.com/luanoliveira98/Node-API-Typescrypt-Fastify-Knex/commits/master">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/luanoliveira98/Node-API-Typescrypt-Fastify-Knex">
-</a>
-<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-<img src="https://img.shields.io/static/v1?label=Made%20with&message=Typescript&color=007acc"/>
-<a href="https://blog.rocketseat.com.br/">
-  <img src="https://img.shields.io/static/v1?label=Course%20of&message=Rocketseat&color=7159c1"/>
-</a>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luanoliveira98/Node-API-Typescrypt-Fastify-Knex?color=%2304D361"/>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/luanoliveira98/Node-API-Typescrypt-Fastify-Knex">
+  <a href="https://github.com/luanoliveira98/Node-API-Typescrypt-Fastify-Knex/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/luanoliveira98/Node-API-Typescrypt-Fastify-Knex">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img src="https://img.shields.io/static/v1?label=Made%20with&message=Typescript&color=007acc"/>
+  <a href="https://blog.rocketseat.com.br/">
+    <img src="https://img.shields.io/static/v1?label=Course%20of&message=Rocketseat&color=7159c1"/>
+  </a>
+</p>
 
 <h4 align="center">
   📚 In study... 📚
