@@ -44,6 +44,7 @@ Project created following the second module of Rocketseat's NodeJS course. In th
 - **[Typescript](https://www.typescriptlang.org/)**
 - **[Fastify](https://www.fastify.io/)**
 - **[Knex.js](https://knexjs.org/)**
+- **[SQLite](https://sqlite.org/index.html)**
 
 ## Author
 ---
