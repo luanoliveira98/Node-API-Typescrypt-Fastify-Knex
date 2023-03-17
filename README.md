@@ -57,6 +57,11 @@ $ cd Node-API-Typescrypt-Fastify-Knex
 # Install the dependencies
 $ npm install
 
+# Duplicate .env.example with name .env and fill the necessary variables
+
+# Run database migrations
+$ npm run knex -- migrate:latest
+
 # Run the application
 $ npm run dev
 
