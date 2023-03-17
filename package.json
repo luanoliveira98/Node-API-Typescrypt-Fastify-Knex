@@ -1,0 +1,20 @@
+{
+  "name": "node-api-typescrypt-fastify-knex",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"> Node REST API </h1>\r <p align=\"center\">Using Fastify, Knex and others tools </p>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.3",
+    "tsx": "^3.12.5",
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "fastify": "^4.14.1"
+  }
+}
