@@ -38,6 +38,32 @@ Project created following the second module of Rocketseat's NodeJS course. In th
 - [ ] Automated tests
 - [ ] Preparing app for Deploy
 
+### Pre-requisites
+
+Before you begin, you will need to have the following tools installed on your machine:
+[Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/).
+In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
+
+#### Running the code
+
+````bash
+
+#clone this repository
+$ git clone git@github.com:luanoliveira98/Node-API-Typescrypt-Fastify-Knex.git
+
+# Acess the project folder cmd/terminal
+$ cd Node-API-Typescrypt-Fastify-Knex
+
+# Install the dependencies
+$ npm install
+
+# Run the application
+$ npm run dev
+
+# The server will start at port: 3333 - go to http://localhost:3333
+
+````
+
 ## 🛠️ Tech Stack
 
 - **[Node](https://nodejs.org/en/)**
