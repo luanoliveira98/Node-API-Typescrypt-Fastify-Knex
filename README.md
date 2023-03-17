@@ -32,7 +32,7 @@ Project created following the second module of Rocketseat's NodeJS course. In th
 
 ## 📁 Modules
 
-- [ ] Application structure
+- [x] Application structure
 - [ ] Database
 - [ ] Route implementation
 - [ ] Automated tests
