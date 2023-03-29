@@ -35,7 +35,7 @@ Project created following the second module of Rocketseat's NodeJS course. In th
 - [x] Application structure
 - [x] Database
 - [x] Route implementation
-- [ ] Automated tests
+- [x] Automated tests
 - [ ] Preparing app for Deploy
 
 ### Pre-requisites
