@@ -15,12 +15,14 @@
 </p>
 
 <h4 align="center">
-  📚 In study... 📚
+  🎓 Finished study 🎓
 </h4>
 
 <p align="center">
  <a href="#🔍-about">About</a> •
  <a href="#📁-modules">Modules</a> •
+ <a href="#⚓-pre-requisites">Pre-requisites</a> •
+ <a href="#💾-running-the-code">Running the code</a> •
  <a href="#🛠️-tech-stack">Tech Stack</a> • 
  <a href="#author">Author</a> • 
  <a href="#license">License</a>
@@ -36,15 +38,15 @@ Project created following the second module of Rocketseat's NodeJS course. In th
 - [x] Database
 - [x] Route implementation
 - [x] Automated tests
-- [ ] Preparing app for Deploy
+- [x] Preparing app for Deploy
 
-### Pre-requisites
+### ⚓ Pre-requisites
 
 Before you begin, you will need to have the following tools installed on your machine:
 [Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/).
 In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
 
-#### Running the code
+### 💾 Running the code
 
 ````bash
 
