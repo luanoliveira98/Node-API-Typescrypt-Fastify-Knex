@@ -3,12 +3,23 @@
   "version": "1.0.0",
   "description": "<h1 align=\"center\"> Node REST API </h1>\r <p align=\"center\">Using Fastify, Knex and others tools </p>",
   "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "knex": "node --no-warnings --loader tsx ./node_modules/knex/bin/cli.js",
     "lint": "eslint src --ext .ts --fix",
     "build": "tsup src",
     "test": "vitest"
+  },
+  "dependencies": {
+    "@fastify/cookie": "^8.3.0",
+    "dotenv": "^16.0.3",
+    "fastify": "^4.14.1",
+    "knex": "^2.4.2",
+    "pg": "^8.10.0",
+    "zod": "^3.21.4"
   },
   "keywords": [],
   "author": "",
@@ -22,14 +33,7 @@
     "tsup": "^6.7.0",
     "tsx": "^3.12.5",
     "typescript": "^5.0.2",
-    "vitest": "^0.29.8"
-  },
-  "dependencies": {
-    "@fastify/cookie": "^8.3.0",
-    "dotenv": "^16.0.3",
-    "fastify": "^4.14.1",
-    "knex": "^2.4.2",
-    "sqlite3": "^5.1.6",
-    "zod": "^3.21.4"
+    "vitest": "^0.29.8",
+    "sqlite3": "^5.1.6"
   }
 }
